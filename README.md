@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+
+## Socials
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109277013874411126?domain=https%3A%2F%2Fmacaw.social%2F)
+
+
+![Metrics](/github-metrics.svg)
+
+
+
+
 <!--
 **tmcarr/tmcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Metrics](/github-metrics.svg)
