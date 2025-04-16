@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=tmcarr&color=blue)
 
 
 ## Socials
