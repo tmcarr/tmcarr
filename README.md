@@ -4,11 +4,7 @@
 ![](https://hit.yhype.me/github/profile?account_id=32553)
 
 ## Socials
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109277013874411126?domain=https%3A%2F%2Fmacaw.social%2F)
-
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/tmcarr89)
-
-![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/tmcarr)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109277013874411126?domain=https%3A%2F%2Fmacaw.social%2F) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/tmcarr89) ![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/tmcarr)
 
 
 ![Metrics](/github-metrics.svg)
