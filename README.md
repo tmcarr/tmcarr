@@ -1,16 +1,10 @@
-## Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=tmcarr&color=blue)
-![](https://hit.yhype.me/github/profile?account_id=32553)
+![Metrics](/github-metrics.svg)
 
 ## Socials
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109277013874411126?domain=https%3A%2F%2Fmacaw.social%2F) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/tmcarr89) ![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/tmcarr)
 
-
-![Metrics](/github-metrics.svg)
-
-
-
+![](https://komarev.com/ghpvc/?username=tmcarr&color=blue)
+![](https://hit.yhype.me/github/profile?account_id=32553)
 
 <!--
 **tmcarr/tmcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
